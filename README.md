@@ -1,2 +1,2 @@
-# CC105ACTIVITY-G.A.-Flutter
+# CC105ACTIVITYScaffold
 Members: Janrenzo Facto, Jolina Matarlo, and Chris Jonathan Tulabot
