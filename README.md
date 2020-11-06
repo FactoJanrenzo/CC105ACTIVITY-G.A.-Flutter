@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter application.
+A Second Flutter application.
 
 ## Getting Started
 
